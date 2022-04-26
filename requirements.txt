@@ -1,2 +1,4 @@
 flask==0.10.1
 bitstring==3.1.9
+streamlit==0.78.0
+pyparsing==2.4.7
